@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webpack_221124/static/css/main.98235e6e.css",
+    "main.js": "/webpack_221124/static/js/main.0f317ce1.js",
+    "index.html": "/webpack_221124/index.html",
+    "main.98235e6e.css.map": "/webpack_221124/static/css/main.98235e6e.css.map",
+    "main.0f317ce1.js.map": "/webpack_221124/static/js/main.0f317ce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98235e6e.css",
+    "static/js/main.0f317ce1.js"
+  ]
+}
